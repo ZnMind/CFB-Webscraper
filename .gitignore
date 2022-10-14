@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# Inclue client for server deploys to Heroku
+# client/
+
+# Local Netlify folder
+.netlify
