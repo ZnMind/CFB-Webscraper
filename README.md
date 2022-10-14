@@ -7,6 +7,3 @@ npm start   //runs server on localhost:5000
 cd client
 npm start   //runs react app on localhost:3000
 ```
-
-#### Webscraper - https://netlify-heroku-express-backend.netlify.app/
-#### Heroku server is running at https://express-webscraper.herokuapp.com/api
